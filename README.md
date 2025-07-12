@@ -4,7 +4,7 @@
 
 El constructor __init__ inicializa el estado de conexión cuando se crea el objeto.
 
-El destructor __del__ cierra la conexión automáticamente si el objeto se elimina (cuando termina el programa o cuando usamos del explícitamente).
+El destructor __del__ cierra la conexión automáticamente si el objeto se elimina, puede ser cuando termina el programa o cuando lo usamos explícitamente.
 
 Incluye métodos adicionales como ejecutar_consulta() y cerrar_conexion() para simular comportamiento real.
 
